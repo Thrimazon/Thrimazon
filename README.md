@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m Oliver Andersson, also known as @Thrimazon.
+- 🎮 I’m interested in board games, video games—everything, and nature.
+- 🛠️ I’m currently studying Game Design at PSQ. 
+
 
 <!--
 **Thrimazon/Thrimazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
