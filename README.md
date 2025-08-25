@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oliver Andersson, also known as @Thrimazon.
-- 🎮 I’m interested in board games, video games—everything, and nature.
+- 🎮 I’m passionate about level design, interactive systems, and creating fun couch-game experiences.
 - 🛠️ I’m currently studying Game Design at PSQ. 
 
 
